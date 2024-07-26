@@ -36,7 +36,14 @@
   $ tsc --project ./tsconfig.json
   ```
 
-- 
+- debuging
+
+  ```
+  1. open a .ts source file in VS Code 
+  2. select 'Debug TS Program' from the 'Run and Debug' Panel
+  2. press F5
+  ```
+
 - 
 - 
 - 
