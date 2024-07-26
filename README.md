@@ -21,6 +21,7 @@
 ## Manuals
 
 - node based project
+
   ```
   $ node --version
   $ npm --version
@@ -29,6 +30,14 @@
   $ npx tsc --init # create tsconfig.json
   ```
 
+- typescript build
+
+  ```
+  $ tsc --project ./tsconfig.json
+  ```
+
+- 
+- 
 - 
 - 
 - ...
