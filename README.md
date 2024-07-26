@@ -1,3 +1,41 @@
+# Essential TypeScript 5 3rd
+
+책 설명 : [Essential TypeScript 5 3rd Edition](https://www.manning.com/books/essential-typescript-5-third-edition)
+
+## DevOps
+
+- Windows 10
+- git , tortoiseGit
+- nvm for windows
+- node v20.10.0
+- VS Code
+- ...
+
+## Modules
+
+- typescript
+- tsx
+- ts-node @types/node
+- ...
+
+## Manuals
+
+- node based project
+  ```
+  $ node --version
+  $ npm --version
+  $ npm init --yes # create package.json
+  $ npm install --save-dev typescript
+  $ npx tsc --init # create tsconfig.json
+  ```
+
+- 
+- 
+- ...
+
+---
+
+
 # Manning Source Code
 
 This repository accompanies *Essential TypeScript 5* by Adam Freeman.
